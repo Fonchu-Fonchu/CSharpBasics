@@ -1,0 +1,15 @@
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\palindromeName\ConsoleApp4\bin\Debug\net6.0\PalindromeName.exe
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\palindromeName\ConsoleApp4\bin\Debug\net6.0\PalindromeName.deps.json
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\palindromeName\ConsoleApp4\bin\Debug\net6.0\PalindromeName.runtimeconfig.json
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\palindromeName\ConsoleApp4\bin\Debug\net6.0\PalindromeName.dll
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\palindromeName\ConsoleApp4\bin\Debug\net6.0\PalindromeName.pdb
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\palindromeName\ConsoleApp4\obj\Debug\net6.0\PalindromeName.csproj.AssemblyReference.cache
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\palindromeName\ConsoleApp4\obj\Debug\net6.0\PalindromeName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\palindromeName\ConsoleApp4\obj\Debug\net6.0\PalindromeName.AssemblyInfoInputs.cache
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\palindromeName\ConsoleApp4\obj\Debug\net6.0\PalindromeName.AssemblyInfo.cs
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\palindromeName\ConsoleApp4\obj\Debug\net6.0\PalindromeName.csproj.CoreCompileInputs.cache
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\palindromeName\ConsoleApp4\obj\Debug\net6.0\PalindromeName.dll
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\palindromeName\ConsoleApp4\obj\Debug\net6.0\refint\PalindromeName.dll
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\palindromeName\ConsoleApp4\obj\Debug\net6.0\PalindromeName.pdb
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\palindromeName\ConsoleApp4\obj\Debug\net6.0\PalindromeName.genruntimeconfig.cache
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\palindromeName\ConsoleApp4\obj\Debug\net6.0\ref\PalindromeName.dll
