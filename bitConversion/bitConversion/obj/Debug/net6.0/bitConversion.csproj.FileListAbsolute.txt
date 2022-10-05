@@ -1,0 +1,15 @@
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\bitConversion\bitConversion\bin\Debug\net6.0\bitConversion.exe
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\bitConversion\bitConversion\bin\Debug\net6.0\bitConversion.deps.json
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\bitConversion\bitConversion\bin\Debug\net6.0\bitConversion.runtimeconfig.json
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\bitConversion\bitConversion\bin\Debug\net6.0\bitConversion.dll
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\bitConversion\bitConversion\bin\Debug\net6.0\bitConversion.pdb
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\bitConversion\bitConversion\obj\Debug\net6.0\bitConversion.csproj.AssemblyReference.cache
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\bitConversion\bitConversion\obj\Debug\net6.0\bitConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\bitConversion\bitConversion\obj\Debug\net6.0\bitConversion.AssemblyInfoInputs.cache
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\bitConversion\bitConversion\obj\Debug\net6.0\bitConversion.AssemblyInfo.cs
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\bitConversion\bitConversion\obj\Debug\net6.0\bitConversion.csproj.CoreCompileInputs.cache
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\bitConversion\bitConversion\obj\Debug\net6.0\bitConversion.dll
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\bitConversion\bitConversion\obj\Debug\net6.0\refint\bitConversion.dll
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\bitConversion\bitConversion\obj\Debug\net6.0\bitConversion.pdb
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\bitConversion\bitConversion\obj\Debug\net6.0\bitConversion.genruntimeconfig.cache
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\bitConversion\bitConversion\obj\Debug\net6.0\ref\bitConversion.dll

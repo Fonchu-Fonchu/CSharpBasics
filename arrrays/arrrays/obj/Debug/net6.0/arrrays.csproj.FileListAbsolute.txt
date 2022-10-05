@@ -1,0 +1,15 @@
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\arrrays\arrrays\bin\Debug\net6.0\arrrays.exe
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\arrrays\arrrays\bin\Debug\net6.0\arrrays.deps.json
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\arrrays\arrrays\bin\Debug\net6.0\arrrays.runtimeconfig.json
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\arrrays\arrrays\bin\Debug\net6.0\arrrays.dll
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\arrrays\arrrays\bin\Debug\net6.0\arrrays.pdb
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\arrrays\arrrays\obj\Debug\net6.0\arrrays.csproj.AssemblyReference.cache
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\arrrays\arrrays\obj\Debug\net6.0\arrrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\arrrays\arrrays\obj\Debug\net6.0\arrrays.AssemblyInfoInputs.cache
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\arrrays\arrrays\obj\Debug\net6.0\arrrays.AssemblyInfo.cs
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\arrrays\arrrays\obj\Debug\net6.0\arrrays.csproj.CoreCompileInputs.cache
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\arrrays\arrrays\obj\Debug\net6.0\arrrays.dll
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\arrrays\arrrays\obj\Debug\net6.0\refint\arrrays.dll
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\arrrays\arrrays\obj\Debug\net6.0\arrrays.pdb
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\arrrays\arrrays\obj\Debug\net6.0\arrrays.genruntimeconfig.cache
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\arrrays\arrrays\obj\Debug\net6.0\ref\arrrays.dll

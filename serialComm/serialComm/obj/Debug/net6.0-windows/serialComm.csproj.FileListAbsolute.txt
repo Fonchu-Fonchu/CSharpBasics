@@ -1,0 +1,17 @@
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\serialComm\serialComm\obj\Debug\net6.0-windows\serialComm.csproj.AssemblyReference.cache
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\serialComm\serialComm\obj\Debug\net6.0-windows\serialComm.Serial.resources
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\serialComm\serialComm\obj\Debug\net6.0-windows\serialComm.csproj.GenerateResource.cache
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\serialComm\serialComm\obj\Debug\net6.0-windows\serialComm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\serialComm\serialComm\obj\Debug\net6.0-windows\serialComm.AssemblyInfoInputs.cache
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\serialComm\serialComm\obj\Debug\net6.0-windows\serialComm.AssemblyInfo.cs
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\serialComm\serialComm\obj\Debug\net6.0-windows\serialComm.csproj.CoreCompileInputs.cache
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\serialComm\serialComm\bin\Debug\net6.0-windows\serialComm.exe
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\serialComm\serialComm\bin\Debug\net6.0-windows\serialComm.deps.json
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\serialComm\serialComm\bin\Debug\net6.0-windows\serialComm.runtimeconfig.json
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\serialComm\serialComm\bin\Debug\net6.0-windows\serialComm.dll
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\serialComm\serialComm\bin\Debug\net6.0-windows\serialComm.pdb
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\serialComm\serialComm\obj\Debug\net6.0-windows\serialComm.dll
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\serialComm\serialComm\obj\Debug\net6.0-windows\refint\serialComm.dll
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\serialComm\serialComm\obj\Debug\net6.0-windows\serialComm.pdb
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\serialComm\serialComm\obj\Debug\net6.0-windows\serialComm.genruntimeconfig.cache
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\serialComm\serialComm\obj\Debug\net6.0-windows\ref\serialComm.dll

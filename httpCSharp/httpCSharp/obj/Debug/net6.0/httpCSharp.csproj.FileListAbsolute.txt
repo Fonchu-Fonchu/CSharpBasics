@@ -1,0 +1,15 @@
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\httpCSharp\httpCSharp\bin\Debug\net6.0\httpCSharp.exe
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\httpCSharp\httpCSharp\bin\Debug\net6.0\httpCSharp.deps.json
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\httpCSharp\httpCSharp\bin\Debug\net6.0\httpCSharp.runtimeconfig.json
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\httpCSharp\httpCSharp\bin\Debug\net6.0\httpCSharp.dll
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\httpCSharp\httpCSharp\bin\Debug\net6.0\httpCSharp.pdb
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\httpCSharp\httpCSharp\obj\Debug\net6.0\httpCSharp.csproj.AssemblyReference.cache
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\httpCSharp\httpCSharp\obj\Debug\net6.0\httpCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\httpCSharp\httpCSharp\obj\Debug\net6.0\httpCSharp.AssemblyInfoInputs.cache
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\httpCSharp\httpCSharp\obj\Debug\net6.0\httpCSharp.AssemblyInfo.cs
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\httpCSharp\httpCSharp\obj\Debug\net6.0\httpCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\httpCSharp\httpCSharp\obj\Debug\net6.0\httpCSharp.dll
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\httpCSharp\httpCSharp\obj\Debug\net6.0\refint\httpCSharp.dll
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\httpCSharp\httpCSharp\obj\Debug\net6.0\httpCSharp.pdb
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\httpCSharp\httpCSharp\obj\Debug\net6.0\httpCSharp.genruntimeconfig.cache
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\httpCSharp\httpCSharp\obj\Debug\net6.0\ref\httpCSharp.dll

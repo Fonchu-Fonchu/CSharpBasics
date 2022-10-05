@@ -1,0 +1,15 @@
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\DelegatesExample\DelegatesExample\bin\Debug\net6.0\DelegatesExample.exe
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\DelegatesExample\DelegatesExample\bin\Debug\net6.0\DelegatesExample.deps.json
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\DelegatesExample\DelegatesExample\bin\Debug\net6.0\DelegatesExample.runtimeconfig.json
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\DelegatesExample\DelegatesExample\bin\Debug\net6.0\DelegatesExample.dll
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\DelegatesExample\DelegatesExample\bin\Debug\net6.0\DelegatesExample.pdb
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\DelegatesExample\DelegatesExample\obj\Debug\net6.0\DelegatesExample.csproj.AssemblyReference.cache
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\DelegatesExample\DelegatesExample\obj\Debug\net6.0\DelegatesExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\DelegatesExample\DelegatesExample\obj\Debug\net6.0\DelegatesExample.AssemblyInfoInputs.cache
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\DelegatesExample\DelegatesExample\obj\Debug\net6.0\DelegatesExample.AssemblyInfo.cs
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\DelegatesExample\DelegatesExample\obj\Debug\net6.0\DelegatesExample.csproj.CoreCompileInputs.cache
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\DelegatesExample\DelegatesExample\obj\Debug\net6.0\DelegatesExample.dll
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\DelegatesExample\DelegatesExample\obj\Debug\net6.0\refint\DelegatesExample.dll
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\DelegatesExample\DelegatesExample\obj\Debug\net6.0\DelegatesExample.pdb
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\DelegatesExample\DelegatesExample\obj\Debug\net6.0\DelegatesExample.genruntimeconfig.cache
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\DelegatesExample\DelegatesExample\obj\Debug\net6.0\ref\DelegatesExample.dll
