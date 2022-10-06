@@ -1,0 +1,15 @@
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\defaultValues\defaultValues\bin\Debug\net6.0\defaultValues.exe
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\defaultValues\defaultValues\bin\Debug\net6.0\defaultValues.deps.json
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\defaultValues\defaultValues\bin\Debug\net6.0\defaultValues.runtimeconfig.json
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\defaultValues\defaultValues\bin\Debug\net6.0\defaultValues.dll
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\defaultValues\defaultValues\bin\Debug\net6.0\defaultValues.pdb
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\defaultValues\defaultValues\obj\Debug\net6.0\defaultValues.csproj.AssemblyReference.cache
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\defaultValues\defaultValues\obj\Debug\net6.0\defaultValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\defaultValues\defaultValues\obj\Debug\net6.0\defaultValues.AssemblyInfoInputs.cache
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\defaultValues\defaultValues\obj\Debug\net6.0\defaultValues.AssemblyInfo.cs
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\defaultValues\defaultValues\obj\Debug\net6.0\defaultValues.csproj.CoreCompileInputs.cache
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\defaultValues\defaultValues\obj\Debug\net6.0\defaultValues.dll
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\defaultValues\defaultValues\obj\Debug\net6.0\refint\defaultValues.dll
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\defaultValues\defaultValues\obj\Debug\net6.0\defaultValues.pdb
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\defaultValues\defaultValues\obj\Debug\net6.0\defaultValues.genruntimeconfig.cache
+C:\Users\Fonchu\Desktop\CISED\repos\CSharp\defaultValues\defaultValues\obj\Debug\net6.0\ref\defaultValues.dll
